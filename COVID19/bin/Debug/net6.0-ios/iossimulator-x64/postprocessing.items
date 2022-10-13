@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="COVID19.app/COVID19">
+      <BCSymbolMapName>COVID19.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>COVID19.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/manojreddy/Projects/COVID19/COVID19/obj/Debug/net6.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>COVID19.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/manojreddy/Projects/COVID19/COVID19</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
