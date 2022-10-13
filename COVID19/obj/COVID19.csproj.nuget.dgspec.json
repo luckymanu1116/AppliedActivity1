@@ -52,13 +52,11 @@
           "dependencies": {
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.540, )",
-              "autoReferenced": true
+              "version": "[6.0.541, )"
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.540, )",
-              "autoReferenced": true
+              "version": "[6.0.541, )"
             }
           },
           "imports": [
@@ -96,13 +94,11 @@
           "dependencies": {
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.540, )",
-              "autoReferenced": true
+              "version": "[6.0.541, )"
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.540, )",
-              "autoReferenced": true
+              "version": "[6.0.541, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
@@ -145,13 +141,11 @@
           "dependencies": {
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
-              "version": "[6.0.540, )",
-              "autoReferenced": true
+              "version": "[6.0.541, )"
             },
             "Microsoft.Maui.Extensions": {
               "target": "Package",
-              "version": "[6.0.540, )",
-              "autoReferenced": true
+              "version": "[6.0.541, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",

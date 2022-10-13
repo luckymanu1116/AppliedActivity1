@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1SCKFtU4BNVpd0fyXvZTJSN1eyy9VAv8yYaT+iTWrL3WHZyYxVYOwmfGk+eRQ/SZzFA3Yp0DOiCLNdD9IqyP8Q==",
+  "dgSpecHash": "CTJdDpZgBecxz9WK0ekKlsVMpMKuvO6fxW55dzNc4RMwkLsw9vngan+1wnQUYH/awEh3hn4FjFA8M6INRHBfhA==",
   "success": true,
   "projectFilePath": "/Users/manojreddy/Projects/COVID19/COVID19/COVID19.csproj",
   "expectedPackageFiles": [
@@ -13,8 +13,8 @@
     "/Users/manojreddy/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "/Users/manojreddy/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/manojreddy/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "/Users/manojreddy/.nuget/packages/microsoft.maui.dependencies/6.0.540/microsoft.maui.dependencies.6.0.540.nupkg.sha512",
-    "/Users/manojreddy/.nuget/packages/microsoft.maui.extensions/6.0.540/microsoft.maui.extensions.6.0.540.nupkg.sha512",
+    "/Users/manojreddy/.nuget/packages/microsoft.maui.dependencies/6.0.541/microsoft.maui.dependencies.6.0.541.nupkg.sha512",
+    "/Users/manojreddy/.nuget/packages/microsoft.maui.extensions/6.0.541/microsoft.maui.extensions.6.0.541.nupkg.sha512",
     "/Users/manojreddy/.nuget/packages/microsoft.maui.graphics/6.0.501/microsoft.maui.graphics.6.0.501.nupkg.sha512",
     "/Users/manojreddy/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/Users/manojreddy/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

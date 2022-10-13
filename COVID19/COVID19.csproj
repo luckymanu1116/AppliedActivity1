@@ -45,4 +45,27 @@
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Remove="Microsoft.Maui.Dependencies" />
+	  <None Remove="Microsoft.Maui.Extensions" />
+	  <None Remove="services\" />
+	  <None Remove="ViewModels\" />
+	  <None Remove="Views\" />
+	  <None Remove="Models\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.Maui.Dependencies" Version="6.0.541" />
+	  <PackageReference Include="Microsoft.Maui.Extensions" Version="6.0.541" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="services\" />
+	  <Folder Include="ViewModels\" />
+	  <Folder Include="Views\" />
+	  <Folder Include="Models\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="Views\MainPage.xaml">
+	    <SubType>Designer</SubType>
+	  </MauiXaml>
+	</ItemGroup>
 </Project>
