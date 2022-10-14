@@ -1,12 +1,36 @@
 ﻿<Properties StartupConfiguration="{B9644F9B-B29A-4850-9D85-AE9F9175872B}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.COVID19 PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="COVID19/Views/MainPage.xaml">
+    <Files>
+      <File FileName="COVID19/services/CovidDataStoreAPI.cs" Line="34" Column="68" />
+      <File FileName="COVID19/ViewModels/Covid19ListViewModel.cs" Line="20" Column="1" />
+      <File FileName="COVID19/services/ICovidDataStore.cs" Line="10" Column="1" />
+      <File FileName="COVID19/services/IWebClientService.cs" Line="15" Column="1" />
+      <File FileName="COVID19/services/WebClientService.cs" Line="63" Column="1" />
+      <File FileName="COVID19/Models/Covid.cs" Line="1" Column="1" />
+      <File FileName="COVID19/Views/MainPage.xaml" Line="14" Column="15" />
+      <File FileName="COVID19/Views/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="COVID19/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="COVID19/App.xaml" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/communitytoolkit.maui/1.3.0/readme.txt" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="COVID19" expanded="True" />
+          <Node name="COVID19" expanded="True">
+            <Node name="COVID19" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="services" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -14,9 +38,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.COVID19 FirstBuild="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
