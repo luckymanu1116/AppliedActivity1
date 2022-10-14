@@ -253,3 +253,9 @@
 /Users/manojreddy/Projects/COVID19/COVID19/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/COVID19.pdb
 /Users/manojreddy/Projects/COVID19/COVID19/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/COVID19.genruntimeconfig.cache
 /Users/manojreddy/Projects/COVID19/COVID19/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/ref/COVID19.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/CommunityToolkit.Maui.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/CommunityToolkit.Maui.Core.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/CommunityToolkit.Maui.Markup.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Microsoft.Toolkit.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/Newtonsoft.Json.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/MvvmHelpers.dll

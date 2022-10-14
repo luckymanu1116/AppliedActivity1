@@ -51,14 +51,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rk8aH6AUlMKLbf1oz50FZa9APSt4np9dNAResHH0XJw=
+			eWOPXgLmcIFv/HVUmMGhYM2X7nWsebsz7aBJeWKuu74=
 			</data>
 		</dict>
 		<key>MonoBundle/COVID19.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xss6pycQ+/5LigE98G8lwCymmluQdRS3f+rpkbnHbXk=
+			m9o9xAhR5MXdmyOIUxRM16cBKYjSdUKAuQUEZrhdgXQ=
+			</data>
+		</dict>
+		<key>MonoBundle/CommunityToolkit.Maui.Core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m3iVMCxNMwmeqCFgjGJhP2omnddGyB1Oj+6xWucmXBM=
+			</data>
+		</dict>
+		<key>MonoBundle/CommunityToolkit.Maui.Markup.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OgGaz/T5IXLj/vNYP9yTNb0o8NCexTN+0a55KhdPw4Q=
+			</data>
+		</dict>
+		<key>MonoBundle/CommunityToolkit.Maui.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hw3kk4C3XUf14a8T1nvDfcLZbHN0V4klAWWM2dWAixE=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -173,6 +194,13 @@
 			GXojnHR9NUY200Z2KZ0shtnHc7G8srrtyZ14baP1H/U=
 			</data>
 		</dict>
+		<key>MonoBundle/Microsoft.Toolkit.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j/A3rSppXEFx4rZ1ynTmfHCQLeLxo3NF850nZDp431Q=
+			</data>
+		</dict>
 		<key>MonoBundle/Microsoft.VisualBasic.Core.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -199,6 +227,20 @@
 			<key>hash2</key>
 			<data>
 			Psi1GzUzQOwHAmL6kM2cwRJKBTwsOJkGbz+Uf1lFzUw=
+			</data>
+		</dict>
+		<key>MonoBundle/MvvmHelpers.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FcM/lLaj1ZYWBesAstLq8eMahNasHeceXOypFNXPjHM=
+			</data>
+		</dict>
+		<key>MonoBundle/Newtonsoft.Json.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cs8pHUurDt0IqbB8YXPh560au3q3J/1wRL9jBddRVmE=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>

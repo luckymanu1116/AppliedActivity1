@@ -1,6 +1,4 @@
-﻿using System;
-using Android.OS;
-
+﻿
 namespace COVID19.services
 {
     interface IWebClientService

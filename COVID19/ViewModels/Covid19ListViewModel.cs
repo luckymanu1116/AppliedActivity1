@@ -1,9 +1,7 @@
 ﻿using COVID19.Models;
 using COVID19.services;
 using MvvmHelpers;
-using MvvmHelpers.commands;
-
-
+using MvvmHelpers.Commands;
 namespace COVID19.ViewModels
 {
     internal class Covid19ListViewModel
@@ -20,7 +18,7 @@ namespace COVID19.ViewModels
 
         public async Task Refresh()
         {
-            var employees = await DataStore.GetCovidAsync(20);
+            var covids = await DataStore.GetCovidAsync(20);
 
             Covid.AddRange(Covid);
         }

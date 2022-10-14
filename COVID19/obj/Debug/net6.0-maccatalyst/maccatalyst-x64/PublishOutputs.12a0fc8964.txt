@@ -1,4 +1,7 @@
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/icudt.dat
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/CommunityToolkit.Maui.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/CommunityToolkit.Maui.Core.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/CommunityToolkit.Maui.Markup.dll
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.Extensions.DependencyInjection.dll
@@ -8,6 +11,9 @@
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.Extensions.Options.dll
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.Extensions.Primitives.dll
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.Toolkit.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Newtonsoft.Json.dll
+/Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/MvvmHelpers.dll
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/COVID19.dll
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/manojreddy/Projects/COVID19/COVID19/bin/Debug/net6.0-maccatalyst/maccatalyst-x64/publish/../COVID19.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll

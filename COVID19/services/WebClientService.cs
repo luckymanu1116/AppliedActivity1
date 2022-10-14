@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using COVID19.services;
 
 namespace COVID19.services
 {
